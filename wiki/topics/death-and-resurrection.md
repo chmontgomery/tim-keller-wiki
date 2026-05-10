@@ -338,6 +338,7 @@ In "Heaven, a World of Love," Keller quotes Edwards at length on the engine of h
 - [Justice and Mercy](justice-and-mercy.md) — The bodily resurrection as grounds for working against injustice in the physical world; N.T. Wright's argument that spiritual-only resurrection evacuates social engagement; the early Christians' nursing of plague victims as an example of resurrection-motivated justice
 - [Work and Vocation](work-and-vocation.md) — The permanent significance of matter and the physical world grounds work and cultural engagement; nothing good is finally wasted
 - [The Cross and Atonement](the-cross-and-atonement.md) — The cross and the empty tomb are inseparable; the resurrection is the Father's vindication that the atonement was accepted; Revelation 4–5 reveals the Lamb who was slain as worthy to receive glory
+- [Faith and Doubt](faith-and-doubt.md) — The bodily resurrection is Keller's primary answer to intellectual skepticism; the Thomas passages, "Doubt, Joy, and Power," and "Encountering the Risen King" function simultaneously as resurrection theology and doubt apologetics; 1 Corinthians 15's "if Christ is not raised" argument anchors both topics
 
 ---
 

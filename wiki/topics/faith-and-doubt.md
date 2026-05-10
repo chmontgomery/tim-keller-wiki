@@ -288,6 +288,7 @@ In "God our Friend," Keller closes with an unexpected illustration from the 1935
 - [Prayer](prayer.md) — "Praying Our Doubts" and "A Different Peace" both locate the resolution of doubt not in argument alone but in the practice of bringing doubt into the presence of God through prayer; "God our Friend" grounds prayer in friendship — complete transparency before the One who will always let you in
 - [Salvation and Justification](salvation-and-justification.md) — "Assurance and Witness of the Spirit" argues that the gap between inferential and intuitive faith is closed only by the Spirit's witness; assurance as a distinctive pastoral concern
 - [Apologetics](apologetics.md) — Keller's engagement with secular defeater beliefs is the outer edge of faith-and-doubt; the same intellectual obstacles that cause doubt are addressed in the apologetics series
+- [Death and Resurrection](death-and-resurrection.md) — The resurrection is Keller's linchpin answer to intellectual doubt; "Arguing About the Afterlife," "Doubt, Joy, and Power," and "Encountering the Risen King" appear in both topics; the historicity and bodily nature of the resurrection is the ground on which Keller refuses to treat doubt as permanently irresolvable
 
 **Thematic adjacencies not yet in the wiki:**
 - Apologetics / Defeater Beliefs — Keller's engagement with Foucault, Nietzsche, the historical criticism of Scripture, Celsus on the resurrection witnesses, and the Questioning Christianity series belongs to an apologetics article

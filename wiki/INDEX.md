@@ -1,6 +1,6 @@
 # Tim Keller Sermons Knowledge Base
 
-Last compiled: 2026-04-30
+Last compiled: 2026-05-10
 Total topics: 19 | Total sources: 1,550 sermons
 
 ## Topics
@@ -49,6 +49,7 @@ When answering questions in Tim Keller's voice:
 
 ## Recent Changes
 
+- 2026-05-10: Incremental compile — no source changes detected; all 19 articles remain current; metadata updated
 - 2026-04-30: Scripture-refs compile — all 19 topics updated; ~130 missing dates filled in across Key Sermons tables; ~130 newly-tagged sermons added to Sources sections; scripture frequency data from 1,256 updated about.md files incorporated
 - 2026-04-30: Incremental compile — no source changes detected; all articles remain current
 - 2026-04-15: First full compile — all 19 topics created from 1,550 sermon files; 3 concept articles generated; schema and index written

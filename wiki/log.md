@@ -1,5 +1,17 @@
 # Wiki Compile & Lint Log
 
+### 2026-05-10 — Lint
+- Stale: 0, Orphans: 0, Cross-refs: 1 missing bidirectional link, Low: 0, Contradictions: 0, Drift: 0
+- Notable: `death-and-resurrection` and `faith-and-doubt` share 4 sermons but neither references the other
+
+## 2026-05-10 (incremental)
+
+**Topics updated:** none
+**New topics:** none
+**Sources scanned:** 1,550
+**Sources changed:** 0
+**Status:** Incremental compile — no source changes detected; all 19 topic articles and 3 concept articles remain current; INDEX.md and compile state updated
+
 ## 2026-04-30 (scripture-refs compile)
 
 **Topics updated:** all 19
