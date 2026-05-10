@@ -43,10 +43,10 @@ For users of this wiki: when reading Keller's engagement with any topic, look fo
 
 ## Sources
 
-- [[../topics/apologetics]]
-- [[../topics/idolatry]]
-- [[../topics/identity]]
-- [[../topics/hope]]
-- [[../topics/work-and-vocation]]
-- [[../topics/marriage-and-family]]
-- [[../topics/sin]]
+- [Apologetics](../topics/apologetics.md)
+- [Idolatry](../topics/idolatry.md)
+- [Identity](../topics/identity.md)
+- [Hope](../topics/hope.md)
+- [Work and Vocation](../topics/work-and-vocation.md)
+- [Marriage and Family](../topics/marriage-and-family.md)
+- [Sin](../topics/sin.md)

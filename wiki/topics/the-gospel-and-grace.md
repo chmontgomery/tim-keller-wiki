@@ -406,6 +406,16 @@ The gospel and grace in Keller's preaching never exist in isolation. The followi
 - [The Church](the-church.md) — how the gospel creates a new humanity across racial and cultural divides; the community the cross builds
 - [Justice and Mercy](justice-and-mercy.md) — how the gospel generates love for the materially poor through spiritual poverty; the cross as the resolution of justice and mercy
 - [Sanctification](sanctification.md) — the same gospel that initiates salvation also drives growth; grace is the engine of sanctification, not its opposite
+- [Sin](sin.md) — the gospel is the only power that actually dissolves sin, not by instilling more fear but by awakening love; the doctrine of sin is the prerequisite for the gospel's relevance
+- [Suffering and Lament](suffering-and-lament.md) — the gospel as the only resource adequate to the weight of suffering; the cross is the demonstration that God is not distant from pain
+- [Hope](hope.md) — hope flows from the gospel; the gospel is the ground on which Christian hope rests
+- [Faith and Doubt](faith-and-doubt.md) — the gospel's diagnosis (pride and fear) is the key to why doubt is more volitional than intellectual; the gospel is what doubt-resolution comes home to
+- [Apologetics](apologetics.md) — the gospel is the answer to every objection; Keller's apologetics and his theology of grace are inseparable
+- [Work and Vocation](work-and-vocation.md) — the gospel liberates from work-as-savior and grounds a healthy theology of vocation as service rather than self-justification
+- [Marriage and Family](marriage-and-family.md) — Keller's theology of marriage is structurally dependent on the gospel: the pattern of Christ's self-giving love and the covenant structure of unconditional commitment
+- [The Bible](the-bible.md) — the gospel is the lens through which Scripture must be read; the Bible becomes either a crushing moralism or a transforming word depending on whether the gospel center is seen
+- [Death and Resurrection](death-and-resurrection.md) — the resurrection is the receipt of forgiveness and the vindication of the cross; "if Christ is not raised, you are still in your sins"
+- [Spiritual Warfare](spiritual-warfare.md) — the armor of God is the gospel in combat form; spiritual warfare cannot be understood apart from the finished work of Christ
 
 ---
 

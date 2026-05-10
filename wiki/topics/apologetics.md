@@ -138,6 +138,7 @@ On the gospel's refusal to be categorized:
 - [Hope](hope.md) — The afterlife argument; the new creation as the answer to the modern despair that what is ultimate is inaccessible (Kafka)
 - [Idolatry](idolatry.md) — Idolatry is Keller's diagnosis of the internal incoherence that secular worldviews cannot escape; the apologetic move of exposing worldview idols
 - [Justice and Mercy](justice-and-mercy.md) — The gospel's simultaneous radicalism on justice and grace is what makes it impossible to reduce to either liberal or conservative categories
+- [Suffering and Lament](suffering-and-lament.md) — Suffering is the great defeater belief Keller's apologetics must address; secular modernity is uniquely ill-equipped to absorb suffering, and the cross is the resource Keller offers in its place
 
 ## Sources [coverage: high — 15 sources]
 

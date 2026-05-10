@@ -1,5 +1,9 @@
 # Wiki Compile & Lint Log
 
+### 2026-05-10 — Lint (post-cleanup)
+- Stale: 0, Orphans: 0, Cross-refs: 0, Low: 0, Contradictions: 0, Drift: 0
+- All checks pass after manual cleanup pass earlier today (see INDEX Recent Changes for details)
+
 ### 2026-05-10 — Lint
 - Stale: 0, Orphans: 0, Cross-refs: 1 missing bidirectional link, Low: 0, Contradictions: 0, Drift: 0
 - Notable: `death-and-resurrection` and `faith-and-doubt` share 4 sermons but neither references the other

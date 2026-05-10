@@ -256,6 +256,12 @@ Keller engages secularism on justice with genuine respect rather than dismissal:
 - [Prayer](prayer.md) — Isaiah 58's critique of worship disconnected from justice: "Is not this the kind of fasting I have chosen: to loose the chains of injustice?"
 - [Work and Vocation](work-and-vocation.md) — Keller's urban theology; New York City as the context for incarnational justice ministry; gospel-shaped work serving the poor
 - [Death and Resurrection](death-and-resurrection.md) — The bodily resurrection as grounds for working against injustice in the physical world; nothing good is finally wasted
+- [Apologetics](apologetics.md) — The gospel's simultaneous radicalism on justice and grace makes it impossible to reduce to liberal or conservative categories — a major apologetic asset in late-modern political contexts
+- [Hope](hope.md) — Material eschatology grounds the Christian commitment to social justice; King's "stone of hope" reasoning depends on a future that gives present action its weight
+- [Sanctification](sanctification.md) — The word-shaped life (James 1:27, Micah 6:8) shows itself in care for the poor *and* personal purity — the two marks the world keeps separating
+- [Sin](sin.md) — God's wrath as the other side of his love; "you need an angry God" against injustice; the cross as the only place where justice and mercy kiss
+- [Salvation and Justification](salvation-and-justification.md) — Propitiation as the ground for both God's forgiveness and his moral seriousness; the cross resolves the justice-mercy tension that pure mercy would dissolve
+- [The Bible](the-bible.md) — James 1:27 as the test of whether you are shaped by the Word — which holds together care for the poor and personal purity — rather than by ideologies that separate them
 
 ---
 

@@ -361,15 +361,18 @@ In *Fullness of His Grace Advent*, Keller addresses the guilt that many New York
 
 ## Related Topics [coverage: medium — 8 sources]
 
-- [The Gospel and Grace](the-gospel-and-grace.md) — The broader framework of grace in Keller's theology; grace as the operating logic of the Christian life
+- [The Gospel and Grace](the-gospel-and-grace.md) — The broader framework of grace in Keller's theology; gospel repentance as distinct from moralistic guilt — looking at the Savior rather than at the self; all of life as repentance; the elder-brother/younger-brother dynamic
 - [Identity](identity.md) — How justification transforms the self: the grounding of identity in Christ rather than in performance, beauty, or achievement
 - [Idolatry](idolatry.md) — "Boasting" as idolatry: grounding ultimate identity in good things that become false gods; career, relationships, and achievement as "slave masters"
-- [The Gospel and Grace](the-gospel-and-grace.md) — Gospel repentance as distinct from moralistic guilt: looking at the Savior rather than at the self; all of life as repentance; the elder-brother/younger-brother dynamic
 - [The Church](the-church.md) — The community that justification creates: a people without racial or social hierarchy because all are "sinners saved by grace"
 - [Work and Vocation](work-and-vocation.md) — How justification reframes the relationship to work: neither a source of identity nor something to be despised, but a calling received as gift
 - [Justice and Mercy](justice-and-mercy.md) — The cross as the resolution of the justice-mercy tension; propitiation as the ground for both God's forgiveness and his moral seriousness
 - [Suffering and Lament](suffering-and-lament.md) — How justification enables endurance of suffering: the foundation is not circumstances but the unchanging status of being accepted in Christ
 - [The Cross and Atonement](the-cross-and-atonement.md) — The cross as the paradigm of heroism through weakness; propitiation and imputed righteousness as the mechanics of justification
+- [Faith and Doubt](faith-and-doubt.md) — "Assurance and Witness of the Spirit": the gap between inferential and intuitive faith is closed by the Spirit's witness; assurance is the experiential side of justification
+- [Prayer](prayer.md) — The doctrine of adoption — flowing from justification — is the theological foundation of "Our Father"; we pray as accepted children, not anxious supplicants
+- [Sanctification](sanctification.md) — Sanctification flows from justification, never the reverse; the unchanging verdict is what fuels growth
+- [Spiritual Warfare](spiritual-warfare.md) — The breastplate of righteousness is imputed, forensic righteousness; justification makes the spiritual-warfare teaching pastorally urgent
 
 ---
 

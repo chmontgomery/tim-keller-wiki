@@ -261,6 +261,7 @@ In *Assurance and Witness of the Spirit*, Keller reads extended excerpts from mi
 - [Justice and Mercy](justice-and-mercy.md) — The word-shaped life, per James 1:27 and Micah 6:8, shows itself in care for the poor *and* personal purity — the two marks the world keeps separating
 - [Work and Vocation](work-and-vocation.md) — The freedom that obedience produces is directly applied to questions of meaning, career anxiety, and the idol of professional success
 - [Salvation and Justification](salvation-and-justification.md) — The attribute of God that underlies and motivates human holiness; sanctification flows from justification, never the reverse
+- [Hope](hope.md) — Being conformed to Christ's image is itself the good that all things work toward; eschatological hope is the engine that sustains the slow work of growth
 
 ---
 

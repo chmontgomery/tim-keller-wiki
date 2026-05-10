@@ -253,6 +253,16 @@ Keller frequently invokes Bob Dylan's lyric "you've got to serve somebody" as a 
 - [Work and Vocation](work-and-vocation.md) — Career and professional success as the primary functional gods in secular New York; work as idol and calling
 - [Suffering and Lament](suffering-and-lament.md) — Suffering as a furnace that reveals false functional gods; idol-diagnosis as part of pastoral counsel in suffering
 - [Marriage and Family](marriage-and-family.md) — Romantic love and the spouse as one of the most powerful functional gods in modern secular life; Keller shows how making a person your ultimate thing sets up both the relationship and the self for collapse
+- [Apologetics](apologetics.md) — Idol-diagnosis is the engine of Keller's apologetic method; the secular worldview's internal incoherence is exposed by showing where it has lifted a good thing to ultimate status
+- [Faith and Doubt](faith-and-doubt.md) — Conditional faith ("I'll believe if...") is structurally identical to idolatry: placing terms on God from a position of self-sovereignty; the "messiification" of career and romance is explicit idol-analysis
+- [Hope](hope.md) — Misplaced hope is idolatry; placing your life in an external object (Tolkien's ring of power) leads to inevitable collapse
+- [Justice and Mercy](justice-and-mercy.md) — Racial division and class exploitation as forms of idolatry: a good thing (ethnicity, achievement) lifted to ultimate status produces hostility toward the outsider
+- [Prayer](prayer.md) — What we truly worship determines what we actually pray for; idol-systems reveal themselves in the desperate or anxious cast of our petitions
+- [Salvation and Justification](salvation-and-justification.md) — "Boasting" as idolatry: grounding ultimate identity in achievements; justification is what dissolves the slave-master grip of false gods
+- [Sanctification](sanctification.md) — Alternative glories are the engine of spiritual stagnation; identifying idols is central to diagnosing why growth has stalled
+- [Spiritual Warfare](spiritual-warfare.md) — Idolatry and demonic oppression are connected; the principalities and powers work through the idols that already have a foothold in the heart
+- [The Bible](the-bible.md) — The Pharisees' use of Scripture as a means of self-justification: the Bible itself can become an idol when treated as an end rather than a witness to Christ
+- [The Church](the-church.md) — Tribalism and in-group exclusion as forms of idolatry; the church is where idols of ethnicity, class, and achievement are relativized
 
 ---
 

@@ -8,7 +8,7 @@ sermon_count: 79
 
 ## Summary [coverage: high — 12+ sources]
 
-Tim Keller returns to the problem of suffering more consistently than almost any other subject in his preaching. Across more than seven decades of sermons — spanning his early ministry in Hopewell, Virginia through decades at Redeemer Presbyterian Church in New York City — he refuses every easy answer while insisting that Christianity, rightly understood, gives resources that no other worldview can match.
+Tim Keller returns to the problem of suffering more consistently than almost any other subject in his preaching. Across more than three decades of sermons — spanning his early ministry in Hopewell, Virginia through decades at Redeemer Presbyterian Church in New York City — he refuses every easy answer while insisting that Christianity, rightly understood, gives resources that no other worldview can match.
 
 His fundamental claim is that suffering is not an anomaly that disproves God's goodness, but a reality that God has entered into personally. The gospel answer to suffering is not first an explanation but a presence. Jesus Christ did not come to give lectures about pain from a safe distance; he descended into the groaning world, suffered socially (rejection, betrayal), physically (torture, death), and spiritually (forsakenness — "My God, my God, why hast thou forsaken me?"). This means, Keller argues, that Christianity is the only major religion with a God who can say, "I know what you mean," when a sufferer comes to him.
 
@@ -282,6 +282,12 @@ Keller saturates his suffering sermons with literary and philosophical reference
 - [Sanctification](sanctification.md) — *Hypomonē* (steadfast endurance) as a key fruit of suffering rightly received; the wilderness as where you find the rock, and in the rock is honey
 - [Apologetics](apologetics.md) — Keller's cultural diagnosis that secular modernity is uniquely ill-equipped for suffering; suffering as the great defeater belief that apologetics must address
 - [Spiritual Warfare](spiritual-warfare.md) — The cosmic dimension of suffering: affliction as a site of spiritual conflict, not merely providential trial; Keller on standing firm (Eph 6) when suffering is prolonged
+- [Identity](identity.md) — The "cosmic disappointment" of reaching for things that cannot satisfy; suffering exposes the emptiness Keller reads as evidence for the God-shaped void
+- [Marriage and Family](marriage-and-family.md) — Marriage is a site of profound suffering — infertility (Hannah's lament), marital breakdown, loneliness within marriage; Keller's pastoral treatment of these griefs draws on his broader theology of suffering
+- [Salvation and Justification](salvation-and-justification.md) — Justification enables endurance of suffering: the foundation is not circumstances but the unchanging status of being accepted in Christ
+- [Sin](sin.md) — Sin's cosmic effects — the alienation from God, self, neighbor, and nature — produce all human suffering; suffering is read against the backdrop of a fallen creation, not as arbitrary
+- [The Church](the-church.md) — The church is the community of suffering alongside one another; Paul's imprisonment in Ephesians 3 is addressed pastorally to discouraged people, and the church is where that pastoral care is embodied
+- [Work and Vocation](work-and-vocation.md) — Genesis 3 thorns and thistles explain why even the best work is frustrating; occupational suffering is connected to the cross and the new creation
 
 ---
 

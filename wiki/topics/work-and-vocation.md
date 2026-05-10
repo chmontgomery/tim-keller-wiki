@@ -264,6 +264,12 @@ Keller invokes the Greek myth of Sisyphus — condemned eternally to push a boul
 - [Identity](identity.md) — The deepest question in Keller's work theology: what tells you who you are? Work will always fail as an answer to that question.
 - [The Gospel and Grace](the-gospel-and-grace.md) — The gospel liberates from work-as-savior and grounds a healthy theology of vocation; cultural engagement as a form of gospel witness
 - [Marriage and Family](marriage-and-family.md) — Work and family as the two great competitive demands on identity and time; Keller addresses how the gospel reorders both rather than requiring a zero-sum trade-off
+- [Sin](sin.md) — Work cursed by sin (thorns and thistles); the Salieri problem; why no achievement ever fully satisfies — the doctrine of sin explains the structural frustration of vocation
+- [Sanctification](sanctification.md) — The freedom that gospel-shaped obedience produces is directly applied to questions of meaning, career anxiety, and the idol of professional success
+- [Salvation and Justification](salvation-and-justification.md) — Justification reframes work as calling received as gift — neither identity-source nor something to be despised
+- [Prayer](prayer.md) — Martha's imploding busyness; prayer as the cure for driven, anxious overachievement that career-as-savior produces
+- [The Bible](the-bible.md) — Wisdom literature (Proverbs, 1 Kings 3) connects the Word of God to practical competence in real-life decisions; wisdom for the workplace flows from having Christ as your true King
+- [The Church](the-church.md) — The church sends its members out into the world with vocations restructured by the gospel; the Center Church framework is about contextualizing the gospel in particular urban and professional settings
 
 ---
 

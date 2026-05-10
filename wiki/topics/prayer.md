@@ -285,10 +285,11 @@ Keller's most memorable illustration for the difference between religious and Ch
 
 ---
 
-## Related Topics [coverage: medium — estimated cross-links]
+## Related Topics [coverage: medium]
 
 - [The Gospel and Grace](the-gospel-and-grace.md) — The gospel as the engine of prayer; why only the cross can sustain both the humility and boldness prayer requires
 - [Salvation and Justification](salvation-and-justification.md) — The doctrine of adoption is the theological foundation of Keller's entire prayer framework; "Our Father" only makes sense if you understand what it means to be an adopted child of God
+- [The Cross and Atonement](the-cross-and-atonement.md) — Adoption flows from the atonement; we pray as children whose access was bought at the cross, not as supplicants negotiating with a distant deity
 - [Suffering and Lament](suffering-and-lament.md) — Ps 88, Hannah, the lament psalms; prayer in darkness without resolution; "but if not"
 - [Idolatry](idolatry.md) — The connection between what we truly worship (our "god") and what we actually pray for; cultural idol systems and prayer as liberation
 - [Sanctification](sanctification.md) — Meditation as the bridge to prayer (Ps 1); the practice of daily, disciplined prayer as a primary means of grace
@@ -296,6 +297,10 @@ Keller's most memorable illustration for the difference between religious and Ch
 - [Work and Vocation](work-and-vocation.md) — Martha's imploding busyness; prayer as the cure for driven, anxious overachievement
 - [The Bible](the-bible.md) — Ps 1; meditation as the disciplined practice of making the Word flesh before prayer
 - [Spiritual Warfare](spiritual-warfare.md) — Ephesians 6: the armor of God culminates in prayer; Keller treats the praying church as the primary battleground of spiritual conflict
+- [Faith and Doubt](faith-and-doubt.md) — "Praying Our Doubts" and "A Different Peace" locate doubt's resolution not in argument alone but in bringing doubt into God's presence through prayer
+- [Identity](identity.md) — Re-living the gospel daily as the practice that keeps identity stable; Keller's "reliving the gospel every time you pray"
+- [Marriage and Family](marriage-and-family.md) — Tim and Kathy Keller's testimony in "Cultivating a Healthy Marriage" about beginning to pray together nightly only after 26 years of marriage
+- [The Church](the-church.md) — Communal prayer as one of the four marks of the Acts 2 church; corporate prayer is constitutive of the gathered body, not optional
 
 ---
 

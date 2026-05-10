@@ -339,6 +339,7 @@ In "Heaven, a World of Love," Keller quotes Edwards at length on the engine of h
 - [Work and Vocation](work-and-vocation.md) — The permanent significance of matter and the physical world grounds work and cultural engagement; nothing good is finally wasted
 - [The Cross and Atonement](the-cross-and-atonement.md) — The cross and the empty tomb are inseparable; the resurrection is the Father's vindication that the atonement was accepted; Revelation 4–5 reveals the Lamb who was slain as worthy to receive glory
 - [Faith and Doubt](faith-and-doubt.md) — The bodily resurrection is Keller's primary answer to intellectual skepticism; the Thomas passages, "Doubt, Joy, and Power," and "Encountering the Risen King" function simultaneously as resurrection theology and doubt apologetics; 1 Corinthians 15's "if Christ is not raised" argument anchors both topics
+- [Spiritual Warfare](spiritual-warfare.md) — The *Christus Victor* dimension of the resurrection: the powers are defeated because death itself has been defeated; Easter is the ground of every standing-firm in Ephesians 6
 
 ---
 

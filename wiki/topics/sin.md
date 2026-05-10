@@ -236,8 +236,9 @@ Keller alludes to Dostoevsky in his preaching on sin, particularly on the theme 
 - [Suffering and Lament](suffering-and-lament.md) — Sin's cosmic effects: the alienation from God, self, neighbor, and nature that produces all human suffering
 - [Work and Vocation](work-and-vocation.md) — Work cursed by sin (thorns and thistles); the Salieri problem; why no achievement ever fully satisfies
 - [Spiritual Warfare](spiritual-warfare.md) — Sin is not merely a personal moral failure but an act in a cosmic drama; Keller connects the structure of temptation and the armor of God to the doctrine of sin
-- Repentance (topic to be compiled) — The four elements of true repentance from Psalm 51; why the gospel, not moralism, makes genuine change possible
-- The Prodigal Son (topic to be compiled) — Both brothers as paradigms: the younger brother's open rebellion and the elder brother's self-righteous, joyless religion as two equal expressions of sin
+- [The Cross and Atonement](the-cross-and-atonement.md) — The atonement is the exact solution to the exact disease Keller diagnoses; sin's anatomy and the cross's accomplishment are tightly mirrored
+
+For the prodigal-son framework — both brothers as paradigms of being lost — see the concept article [The Two Ways of Being Lost](../concepts/the-two-ways-of-being-lost.md).
 
 ---
 

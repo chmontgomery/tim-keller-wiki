@@ -37,10 +37,10 @@ Finally, the pattern illuminates why the gospel produces what no other worldview
 
 ## Sources
 
-- [[../topics/sin]]
-- [[../topics/idolatry]]
-- [[../topics/salvation-and-justification]]
-- [[../topics/the-gospel-and-grace]]
-- [[../topics/apologetics]]
-- [[../topics/faith-and-doubt]]
-- [[../topics/sanctification]]
+- [Sin](../topics/sin.md)
+- [Idolatry](../topics/idolatry.md)
+- [Salvation and Justification](../topics/salvation-and-justification.md)
+- [The Gospel and Grace](../topics/the-gospel-and-grace.md)
+- [Apologetics](../topics/apologetics.md)
+- [Faith and Doubt](../topics/faith-and-doubt.md)
+- [Sanctification](../topics/sanctification.md)

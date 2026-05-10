@@ -41,10 +41,10 @@ For users of this wiki asking about personal suffering: Keller's consistent answ
 
 ## Sources
 
-- [[../topics/suffering-and-lament]]
-- [[../topics/hope]]
-- [[../topics/sanctification]]
-- [[../topics/prayer]]
-- [[../topics/faith-and-doubt]]
-- [[../topics/death-and-resurrection]]
-- [[../topics/spiritual-warfare]]
+- [Suffering and Lament](../topics/suffering-and-lament.md)
+- [Hope](../topics/hope.md)
+- [Sanctification](../topics/sanctification.md)
+- [Prayer](../topics/prayer.md)
+- [Faith and Doubt](../topics/faith-and-doubt.md)
+- [Death and Resurrection](../topics/death-and-resurrection.md)
+- [Spiritual Warfare](../topics/spiritual-warfare.md)

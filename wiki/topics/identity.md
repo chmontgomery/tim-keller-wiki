@@ -288,6 +288,13 @@ Keller's sermon "Christ Provides New Identity Papers" opens with the question: w
 - [Idolatry](idolatry.md) — Identity built on good things elevated to ultimate things; the idol as the thing you are building your identity around
 - [Prayer](prayer.md) — Re-living the gospel daily as the practice that keeps identity stable; "reliving the gospel every time you pray"
 - [The Church](the-church.md) — Identity through exclusion as the root of racial and class hostility; the new humanity in Christ as the only structural solution
+- [Death and Resurrection](death-and-resurrection.md) — The resurrection grounds a stable self-image: Jesus calls Mary by name in "Encountering the Risen King," revealing personal identity as found in knowing the risen Christ
+- [Faith and Doubt](faith-and-doubt.md) — Keller's gospel self-esteem ("an absolute beauty in the eyes of God, the only person whose eyes matter") is the positive face of what doubt-resolution produces; the identity-in-relationship arc anchors both topics
+- [Sanctification](sanctification.md) — The new birth establishes a new identity in Christ; sanctification is the process of coming to live out of that identity rather than performing for it
+- [Spiritual Warfare](spiritual-warfare.md) — Satan's primary weapon is accusation, which attacks identity; a gospel-secured identity is what cannot be undermined
+- [Marriage and Family](marriage-and-family.md) — The "romantic idol" — looking to a spouse to give us a self — is one of the most seductive identity-substitutes in NYC culture
+- [Work and Vocation](work-and-vocation.md) — Career as the deepest answer modern people give to "who am I?"; Keller's whole work theology hinges on dethroning this answer
+- [The Bible](the-bible.md) — The "tree by streams of water" (Psalm 1): the person whose identity is rooted in the Word rather than in cultural approval, career success, or feeling
 
 ---
 

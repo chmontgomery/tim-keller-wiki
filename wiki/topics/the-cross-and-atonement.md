@@ -371,6 +371,8 @@ Keller closes "Forgiveness and Reconciliation" with the story of Corrie ten Boom
 - [Salvation and Justification](salvation-and-justification.md) — The cross is both the ground and the pattern for human forgiveness; propitiation and imputed righteousness as the mechanics of justification
 - [Death and Resurrection](death-and-resurrection.md) — The cross and empty tomb are inseparable for Keller; the resurrection is the Father's vindication that the propitiation was accepted
 - [Sin](sin.md) — The atonement is the exact solution to the exact disease Keller diagnoses; his anthropology and soteriology are tightly linked
+- [Apologetics](apologetics.md) — The cross is both the content of Keller's apologetic answer (grace, not performance) and the move that makes Jesus categorically unlike any other religious founder
+- [Hope](hope.md) — The cross is the proof that God is for us; without the propitiation accepted, the resurrection would not yield Christian hope but only a wonder
 
 ---
 

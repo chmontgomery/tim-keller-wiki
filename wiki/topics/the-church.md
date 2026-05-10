@@ -205,6 +205,9 @@ Keller's early experience in a campus fellowship in 1969-70 shapes his mature ec
 - [Suffering and Lament](suffering-and-lament.md) — The church is the community of suffering alongside one another; Paul's imprisonment in Ephesians 3 is addressed pastorally to discouraged people, and the church is where that pastoral care is embodied
 - [Prayer](prayer.md) — Communal prayer is one of the four marks of the Acts 2 church; corporate worship, including the breaking of bread and prayer, is constitutive of the church, not optional for it
 - [Work and Vocation](work-and-vocation.md) — The church sends its members out into the world with a vocation-restructured by the gospel; the Center Church framework is about contextualizing the gospel in particular urban and professional settings
+- [Sanctification](sanctification.md) — Spiritual newborns need communities the way infants need families; sanctification happens in the context of interdependent belonging, not in isolation
+- [Salvation and Justification](salvation-and-justification.md) — The community justification creates: a people without racial or social hierarchy because all are "sinners saved by grace"
+- [The Cross and Atonement](the-cross-and-atonement.md) — The cross creates not only justified individuals but a "new humanity" (Ephesians 2); the church is the social embodiment of the atonement
 
 ---
 
