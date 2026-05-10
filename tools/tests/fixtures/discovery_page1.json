@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1001,
+    "slug": "peace",
+    "link": "https://gospelinlife.com/sermon/peace/",
+    "title": {"rendered": "Peace – Overcoming Anxiety"},
+    "date": "1990-02-18T00:00:00",
+    "speaker": [23]
+  },
+  {
+    "id": 1002,
+    "slug": "aspiration-lead-us",
+    "link": "https://gospelinlife.com/sermon/aspiration-lead-us/",
+    "title": {"rendered": "Aspiration — Lead Us"},
+    "date": "1995-05-28T00:00:00",
+    "speaker": [23]
+  }
+]

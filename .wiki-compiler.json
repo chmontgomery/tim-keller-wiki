@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "name": "Tim Keller Sermons",
+  "sources": [
+    {
+      "path": "raw/sermons/",
+      "exclude": ["wiki/", ".git/", ".venv/"]
+    }
+  ],
+  "output": "wiki/",
+  "mode": "recommended",
+  "auto_update": "prompt",
+  "article_sections": [
+    {
+      "name": "Summary",
+      "description": "What Keller teaches on this topic, synthesized across sermons and written in his voice",
+      "required": true
+    },
+    {
+      "name": "Core Argument",
+      "description": "His central theological claim on this topic: the diagnosis of the human condition and the gospel answer"
+    },
+    {
+      "name": "Key Sermons",
+      "description": "Primary sermons addressing this topic — title, date, scripture reference, and series"
+    },
+    {
+      "name": "Scripture Texts",
+      "description": "The biblical passages Keller returns to most when preaching on this theme"
+    },
+    {
+      "name": "Cultural Hooks",
+      "description": "How he connects this topic to modern life, secular objections, literature, philosophy, and NYC context"
+    },
+    {
+      "name": "Representative Quotes",
+      "description": "Characteristic phrases and overview paragraphs from the sermons on this topic"
+    },
+    {
+      "name": "Related Topics",
+      "description": "Cross-links to connected theological themes in this wiki"
+    },
+    {
+      "name": "Sources",
+      "description": "Backlinks to all contributing sermon files",
+      "required": true
+    }
+  ],
+  "topic_hints": [
+    "The Gospel and Grace",
+    "Idolatry",
+    "Prayer",
+    "Suffering and Lament",
+    "Work and Vocation",
+    "Justice and Mercy",
+    "Identity",
+    "The Church",
+    "The Cross and Atonement",
+    "Faith and Doubt",
+    "Marriage and Family",
+    "Death and Resurrection",
+    "Sin",
+    "The Bible",
+    "Spiritual Warfare",
+    "Salvation and Justification",
+    "Sanctification",
+    "Hope",
+    "Apologetics"
+  ],
+  "link_style": "markdown"
+}

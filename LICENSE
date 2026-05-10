@@ -1,0 +1,45 @@
+# License & Attribution
+
+Sermon transcripts, titles, scripture references, and metadata in this repository are derived from the published works of Tim Keller, available at [gospelinlife.com](https://gospelinlife.com), the official sermon archive of his ministry.
+
+## Fair use
+
+Most quotes and references to Gospel in Life content are permitted under the [fair use doctrine](https://www.copyright.gov/fair-use/index.html) of U.S. copyright law, provided they are cited properly. This repository was built for non-commercial study and to enable LLM-grounded responses that explicitly attribute their sources back to the original sermons.
+
+If you use the wiki or raw transcripts in this repo:
+
+- Cite the sermon by title, date, and scripture reference.
+- Do not redistribute the underlying audio recordings.
+- Direct people to [gospelinlife.com](https://gospelinlife.com) as the canonical source.
+
+## Permissions questions
+
+For questions about what is covered under Gospel in Life's content policy, contact: **support@gospelinlife.com**.
+
+## This repository's code
+
+The Python code under `tools/` and the markdown structure of the compiled `wiki/` (the synthesis layer, not the underlying sermon content) are released under the MIT License:
+
+```
+MIT License
+
+Copyright (c) 2026 Chris Montgomery
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```

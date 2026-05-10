@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.mp3
+.llm_followup.json
+raw/sermons/manifest.json
+raw/sermons/.debug/
+.claude/*
+!.claude/commands/
+!.claude/skills/
+.env.worktrees/
+.worktrees/
