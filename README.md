@@ -39,9 +39,18 @@ Two options:
 - **Upload the wiki.** Zip `wiki/` and `AGENTS.md` and attach them to a conversation. Then ask the model to "read AGENTS.md first, then answer my question using the wiki."
 - **Workspace-aware tools (Copilot, Cursor, Codex, etc.).** Open this folder as a workspace. The LLM will pick up `AGENTS.md` automatically.
 
-### Example prompt
+### Example prompts
 
-> Using the Tim Keller wiki in this repo (start with `AGENTS.md`), answer in Keller's voice and cite the sermons you draw from: **How would Keller counsel someone who feels their identity is wrapped up in their career?**
+> How would Keller counsel someone who feels their identity is wrapped up in their career?
+
+> "My friend says Christianity is just a crutch for people who can't handle reality. How would Keller respond to that?"
+
+> "Here's a sermon I'm preparing on the Prodigal Son. Would Keller think I'm handling this text well, or am I missing something?"
+
+> "I'm going through a really painful season and I've been praying, but God feels completely silent. How does Keller hold together suffering and prayer?"
+
+> "Everyone talks about 'living your truth' and finding your authentic self. What would Keller make of that whole cultural idea?"
+
 
 ## Attribution
 
