@@ -1,7 +1,15 @@
 # Tim Keller Sermons Knowledge Base
 
-Last compiled: 2026-05-10
+Last compiled: 2026-05-11
 Total topics: 19 | Total sources: 1,550 sermons
+Teaching courses: see [Teaching Courses](teaching-courses/INDEX.md) for **how to preach** (method) — distinct from theological topics below.
+
+## When to look where
+
+| Question | Section |
+|---|---|
+| What Keller teaches about a theological/pastoral topic ("idolatry", "suffering", "what should I do about X") | [Topics](#topics) below |
+| How to preach, sermon craft, sermon review, pastoral formation | [Teaching Courses](teaching-courses/INDEX.md) |
 
 ## Topics
 

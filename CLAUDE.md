@@ -4,6 +4,8 @@ When using this repo to answer questions about Tim Keller, follow `AGENTS.md` at
 
 In short: read `wiki/INDEX.md` first, then the matching topic article in `wiki/topics/`, then `wiki/concepts/` if the question crosses topics, and only fall back to `raw/sermons/` for specific quotes or details not in the wiki.
 
+For questions about **how to preach, sermon craft, or sermon review** (not theological topics), route to `wiki/teaching-courses/INDEX.md` instead — that section is primary for preaching-method questions.
+
 ## Repo layout
 
 - `wiki/` — compiled knowledge base. Read this before raw sources.

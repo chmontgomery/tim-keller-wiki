@@ -1,5 +1,26 @@
 # Wiki Compile & Lint Log
 
+### 2026-05-11 — Lint (post-update)
+- Stale: 0, Orphans: 0, Cross-refs: 0, Low: 0, Contradictions: 0, Drift: 0
+- All schema-drift findings resolved: Teaching Courses section added to schema.md with all 5 slugs, and a teaching-course-specific article-structure block recorded.
+
+### 2026-05-11 — Lint
+- Stale: 0, Orphans: 0, Cross-refs: 0, Low: 0, Contradictions: 0, Drift: 5
+- Schema drift: all 5 teaching-courses topics missing from `wiki/schema.md` (compiler was bypassed; schema not auto-updated). Suggest adding a `## Teaching Courses` section to schema with the 5 slugs.
+
+## 2026-05-11 (teaching-courses section, first compile)
+
+**New section:** `wiki/teaching-courses/` — preaching-method meta-content, distinct from theological topics in `wiki/topics/`
+**Source:** `raw/teaching-courses/christocentric-preaching/` (TGC course *Preaching Christ in a Postmodern World*, 9 Keller-led lecture transcripts)
+**New topics (5):**
+- `christocentric-preaching-overview` — course frame, the Expounding→Applying→Adoring triad
+- `christ-centered-application` — getting from any text to Christ (themes, four ways)
+- `application-strategy` — macro-strategies, audience differentiation, three preaching-pitfalls
+- `preaching-to-worldviews` — subversive fulfillment, woven-in apologetics
+- `the-preachers-heart` — spiritual reality, gifts vs grace, communion with God
+
+**Routing changes:** Updated top-level `wiki/INDEX.md`, `AGENTS.md`, `CLAUDE.md` so preaching-method questions route to `wiki/teaching-courses/` and theological questions continue routing to `wiki/topics/`.
+
 ### 2026-05-10 — Lint (post-cleanup)
 - Stale: 0, Orphans: 0, Cross-refs: 0, Low: 0, Contradictions: 0, Drift: 0
 - All checks pass after manual cleanup pass earlier today (see INDEX Recent Changes for details)

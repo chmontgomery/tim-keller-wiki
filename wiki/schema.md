@@ -28,6 +28,18 @@ This file defines the structure and conventions for the Tim Keller Sermons knowl
 - `the-gospel-and-grace`: The content of the gospel; grace vs. moralism; how the gospel is different from religion
 - `work-and-vocation`: Work as participation in God's creation; calling and career; rest and sabbath; the theology of cultural engagement
 
+## Teaching Courses
+
+Compiled meta-content from Keller's lectures *about* preaching, distinct from his preaching itself. These articles live in `teaching-courses/topics/` and are the primary content for questions about preaching method, sermon craft, and pastoral self-formation. They are **not** the right source for theological/counseling questions — those route to `topics/` above.
+
+- `christocentric-preaching-overview`: The course frame — every sermon should make Christ visible, not merely talk about him; the Expounding → Applying → Adoring triad; the critique of doctrinal, practical-userfriendly, and emotional-devotional preaching
+- `christ-centered-application`: Getting from any biblical text to Christ organically — Keller's four ways (theme resolution, law completion, story insertion, symbol fulfillment); types vs. themes of Christ; the major intercanonical themes (King/Kingdom, Grace/Law, Worship/Sanctuary)
+- `application-strategy`: The macro-strategies of "getting down to earth" — moving from exposition to specific personal application; audience differentiation (mature, non-Christian, immature); the three preaching-pitfalls (doctrinal, pietist, cultural-transformation); idol diagnosis in sermon application
+- `preaching-to-worldviews`: Entering and challenging the listener's worldview — subversive fulfillment (affirm → destabilize → re-stabilize with Christ); woven-in apologetics; biblical-theological themes that land in modern audiences (temple, marriage); the preacher's own cultural captivity as a precondition for engaging others'
+- `the-preachers-heart`: The preacher's spiritual life — the four sub-texts of preaching; Edwards-inspired tips; spiritual reality vs. notional knowledge; gifts vs. grace; communion with God as the fuel of preaching
+
+Article structure for teaching-course topics differs from the topics/ section — see "Article Structure (Teaching Courses)" below.
+
 ## Concepts
 
 Cross-cutting patterns that span 3+ topic articles. Interpretive, not just factual.
@@ -51,6 +63,19 @@ Each topic article follows this format, using these custom sections configured f
 
 Coverage tags: `[coverage: high — N sources]`, `[coverage: medium — N sources]`, `[coverage: low — N sources]`
 
+## Article Structure (Teaching Courses)
+
+Teaching-course topic articles use a different, method-focused structure since they describe *how* to preach rather than *what* Keller preached. Sections vary slightly per topic but the canonical shape is:
+
+- **Summary** [coverage] — 2-3 paragraphs on the core thesis, written in synthesizing voice (not Keller's voice)
+- **The Practice / specific method sections** [coverage] — the actionable how-to; multiple sections per article, named for the specific method (e.g., "The Four Ways of Getting to Christ", "The Three Macro-Strategies", "Subversive Fulfillment")
+- **Pitfalls to Avoid** [coverage] — Keller's specific warnings about how the method goes wrong
+- **Worked Examples** [coverage] — passages, cases, or sermons Keller works through in the lectures to demonstrate the method
+- **Connection to Keller's Own Preaching** — short paragraph showing how to spot the method when studying Keller's actual sermons; cross-links into `topics/` where the underlying theology lives
+- **Sources** — backlinks to the lecture transcripts and about.md files under `raw/teaching-courses/`
+
+Voice for teaching-course articles: synthesizing/analytical, not in-character as Keller. The reader is a working preacher or sermon reviewer, not someone seeking counsel.
+
 ## Naming Conventions
 
 - Topic slugs: lowercase-kebab-case (e.g., `the-gospel-and-grace`, `suffering-and-lament`)
@@ -68,5 +93,6 @@ Coverage tags: `[coverage: high — N sources]`, `[coverage: medium — N source
 
 ## Evolution Log
 
+- 2026-05-11: Added Teaching Courses section — 5 new topics compiled from raw/teaching-courses/christocentric-preaching/ (TGC course, Keller-led sessions only). New article structure for method-focused content. Reason: teaching-course lectures are *about* preaching and need a different shape than the theology-focused sermon topics.
 - 2026-04-30: Scripture-refs compile — all 19 topics updated with dates from new Scripture metadata fields; ~130 missing Key Sermons dates filled in; ~130 newly-discovered sermons added to Sources sections across all topics
 - 2026-04-15: Initial schema generated from 19 topics, 3 concepts — first compile of full sermon catalog (1,550 sermons)
