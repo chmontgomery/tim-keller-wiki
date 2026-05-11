@@ -8,6 +8,7 @@ This directory holds the pipeline that produces the `wiki/` and `raw/sermons/` c
 |---|---|---|
 | Download sermon audio + metadata | `tools/pipeline/download/` | `python -m tools.pipeline.download` |
 | Transcribe MP3 → text (mlx-whisper) | `tools/pipeline/transcribe/` | `python -m tools.pipeline.transcribe` |
+| Transcribe teaching-course lectures | `tools/pipeline/transcribe_course/` | `python -m tools.pipeline.transcribe_course` |
 | Extract scripture references | `tools/pipeline/add_scripture_refs.py` | `python -m tools.pipeline.add_scripture_refs` |
 | Compile wiki | [llm-wiki-compiler](https://github.com/anthropics/llm-wiki-compiler) | `/wiki-compile` (slash command in Claude Code) |
 
@@ -56,6 +57,21 @@ Walks `raw/sermons/`, writes a `.txt` next to each MP3 that doesn't have one yet
 | `--sermon <name>` | Transcribe a single sermon by folder name. |
 | `--force` | Re-transcribe even if a `.txt` exists. |
 | `--verbose` | Show segment count and detailed progress. |
+
+### Teaching-course lectures
+
+For the TGC "Preaching Christ in a Postmodern World" course under
+`raw/teaching-courses/`, use the sibling command:
+
+```bash
+python -m tools.pipeline.transcribe_course
+```
+
+Same flags as `transcribe` (`--lecture <name>`, `--force`, `--verbose`).
+Adds one extra step: strips the TGC announcer's intro up to "Here now is
+Dr. Tim Keller." so the saved transcript starts with Keller's own first
+sentence. If the hand-off marker isn't found, the intro is left intact
+and the lecture is flagged in `raw/teaching-courses/.llm_followup.json`.
 
 ## Step 3 — Extract scripture references
 

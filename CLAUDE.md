@@ -8,6 +8,7 @@ In short: read `wiki/INDEX.md` first, then the matching topic article in `wiki/t
 
 - `wiki/` — compiled knowledge base. Read this before raw sources.
 - `raw/sermons/` — full transcripts (`<name>.txt`) and metadata (`about.md`) for every sermon.
+- `raw/teaching-courses/` — TGC lecture courses (e.g. *Preaching Christ in a Postmodern World*). Same per-lecture layout as sermons.
 - `tools/` — maintainer-only build pipeline. Don't touch unless you're rebuilding the wiki. See `tools/README.md`.
 
 ## Maintainer pipeline
@@ -17,6 +18,7 @@ Only relevant when rebuilding. All commands are run from repo root and use the `
 ```bash
 python -m tools.pipeline.download
 python -m tools.pipeline.transcribe
+python -m tools.pipeline.transcribe_course
 python -m tools.pipeline.add_scripture_refs
 /wiki-compile
 ```

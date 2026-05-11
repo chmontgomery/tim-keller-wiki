@@ -10,6 +10,9 @@ import pythonbible
 
 SERMONS_DIR = Path(__file__).parent.parent / "raw" / "sermons"
 SCRIPTURE_ROW_RE = re.compile(r"(\| Scripture \| )(.*?)( \|)", re.IGNORECASE)
+# Match the last row of a leading metadata table — used to insert a Scripture
+# row in about.md files that don't yet have one (e.g. teaching-course lectures).
+METADATA_TAIL_RE = re.compile(r"(\| [^|\n]+ \| [^|\n]*? \|)(\s*\n\s*\n)", re.MULTILINE)
 
 
 def _ref_key(ref):
@@ -82,8 +85,24 @@ def process_sermon(sermon_dir: Path, dry_run: bool) -> bool:
     content = about_path.read_text(encoding="utf-8")
     match = SCRIPTURE_ROW_RE.search(content)
     if not match:
-        print(f"WARNING: no Scripture row in {sermon_dir.name}", file=sys.stderr)
-        return False
+        # Insert a Scripture row at the end of the metadata table. Used for
+        # teaching-course lectures whose about.md template lacks one.
+        tail = METADATA_TAIL_RE.search(content)
+        if not tail:
+            print(f"WARNING: no Scripture row and no metadata table in {sermon_dir.name}", file=sys.stderr)
+            return False
+        new_value = ", ".join(fmt for _, fmt in transcript_refs)
+        new_content = (
+            content[: tail.end(1)]
+            + f"\n| Scripture | {new_value} |"
+            + content[tail.end(1):]
+        )
+        if dry_run:
+            print(f"--- {sermon_dir.name}")
+            print(f"  inserted Scripture row: {new_value}")
+            return True
+        about_path.write_text(new_content, encoding="utf-8")
+        return True
 
     existing_raw = match.group(2).strip()
 
@@ -127,16 +146,22 @@ def main():
     parser = argparse.ArgumentParser(description="Populate Scripture refs in about.md files.")
     parser.add_argument("--dry-run", action="store_true", help="Print changes without writing")
     parser.add_argument("--sermon", metavar="NAME", help="Process one sermon directory by name")
+    parser.add_argument(
+        "--dir",
+        type=Path,
+        default=SERMONS_DIR,
+        help="Root directory whose immediate subfolders contain about.md (default: raw/sermons)",
+    )
     args = parser.parse_args()
 
     if args.sermon:
-        sermon_dir = SERMONS_DIR / args.sermon
+        sermon_dir = args.dir / args.sermon
         if not sermon_dir.is_dir():
             print(f"ERROR: {sermon_dir} not found", file=sys.stderr)
             sys.exit(1)
         dirs = [sermon_dir]
     else:
-        dirs = sorted(d for d in SERMONS_DIR.iterdir() if d.is_dir())
+        dirs = sorted(d for d in args.dir.iterdir() if d.is_dir())
 
     updated = 0
     for d in dirs:
